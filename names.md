@@ -1,7 +1,7 @@
 Arthur
+Peter
 Andrew
 Gordon
-Peter
 David
 Mary
 Jane
