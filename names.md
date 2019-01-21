@@ -2,8 +2,8 @@ Arthur
 Peter
 Simon
 Andrew
-Gordon
 David
+Gordon
 Mary
 Jane
 Pat
