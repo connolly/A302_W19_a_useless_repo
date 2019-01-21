@@ -1,8 +1,8 @@
 Arthur
 Peter
 Simon
-Simon
 Gordon
+Andrew
 David
 Mary
 Jane
