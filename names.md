@@ -1,7 +1,7 @@
 Arthur
 Peter
 Simon
-Andrew
+Simon
 Gordon
 David
 Mary
