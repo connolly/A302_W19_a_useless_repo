@@ -8,6 +8,8 @@ Andrew
 Pat
 Michelle
 Jen
+Sierra
+Daven
 Kiana
 Daven
 Kiana
