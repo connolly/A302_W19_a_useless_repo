@@ -1,7 +1,7 @@
-Arthur
-Simon
 Peter
-Gordon
+Simon
+Sam
+Richard
 Andrew
 Dave
 Mary
