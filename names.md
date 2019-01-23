@@ -1,7 +1,6 @@
-Arthur
 Peter
 Simon
-Gordon
+Sam
 Richard
 Andrew
 David
