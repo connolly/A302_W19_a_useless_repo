@@ -2,6 +2,7 @@ Arthur
 Peter
 Simon
 Gordon
+Richard
 Andrew
 David
 Mary
