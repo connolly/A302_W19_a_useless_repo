@@ -1,9 +1,9 @@
 Arthur
-Peter
 Simon
+Peter
 Gordon
 Andrew
-David
+Dave
 Mary
 Jane
 Pat
